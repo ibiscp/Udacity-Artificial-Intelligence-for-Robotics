@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f915368c-745b-424d-85cb-1da108b0dd7b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="f915368c-745b-424d-85cb-1da108b0dd7b" name="Default" comment="" />
     <ignored path="Udacity-Artificial-Intelligence-for-Robotics.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,54 +24,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PID_Path_Smoothing.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PID_Path_Smoothing.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="130" max-vertical-offset="1241">
-              <caret line="25" column="62" selection-start-line="25" selection-start-column="62" selection-end-line="25" selection-end-column="62" />
-              <folding>
-                <element signature="e#593#618#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PID_P_Controller.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PID_P_Controller.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2176" max-vertical-offset="2720">
-              <caret line="152" column="0" selection-start-line="152" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
-              <folding>
-                <element signature="e#532#550#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PID_PI_Controller.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PID_PI_Controller.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2258" max-vertical-offset="2805">
-              <caret line="149" column="62" selection-start-line="149" selection-start-column="62" selection-end-line="149" selection-end-column="62" />
-              <folding>
-                <element signature="e#458#476#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PID_Parameter_Optimization.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PID_Parameter_Optimization.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2785" max-vertical-offset="3434">
-              <caret line="176" column="0" selection-start-line="176" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
-              <folding>
-                <element signature="e#464#482#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="PID_Cyclic_Smoothing.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PID_Cyclic_Smoothing.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -99,7 +49,7 @@
       <file leaf-file-name="PID_Racetrack_Control.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PID_Racetrack_Control.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.137931" vertical-offset="2353" max-vertical-offset="3332">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2353" max-vertical-offset="3332">
               <caret line="154" column="0" selection-start-line="154" selection-start-column="0" selection-end-line="154" selection-end-column="0" />
               <folding>
                 <element signature="e#637#655#0" expanded="true" />
@@ -108,13 +58,87 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SLAM_Segmented_CTE.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SLAM_Segmented_CTE.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SLAM_Segmented_CTE.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.60301507" vertical-offset="9620" max-vertical-offset="11203">
+            <state vertical-scroll-proportion="0.0" vertical-offset="9620" max-vertical-offset="11203">
               <caret line="580" column="21" selection-start-line="580" selection-start-column="21" selection-end-line="580" selection-end-column="21" />
               <folding>
                 <element signature="e#396#414#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SLAM_Omega_Xi.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SLAM_Omega_Xi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="3081" max-vertical-offset="3655">
+              <caret line="331" column="37" selection-start-line="331" selection-start-column="37" selection-end-line="331" selection-end-column="37" />
+              <folding>
+                <element signature="e#1009#1152#0" expanded="false" />
+                <element signature="e#1291#1611#0" expanded="false" />
+                <element signature="e#1761#2088#0" expanded="false" />
+                <element signature="e#2189#2317#0" expanded="false" />
+                <element signature="e#2477#2954#0" expanded="false" />
+                <element signature="e#3110#3597#0" expanded="false" />
+                <element signature="e#3738#4235#0" expanded="false" />
+                <element signature="e#4337#4562#0" expanded="false" />
+                <element signature="e#5231#5613#0" expanded="false" />
+                <element signature="e#6329#6701#0" expanded="false" />
+                <element signature="e#6944#7634#0" expanded="false" />
+                <element signature="e#7874#8433#0" expanded="false" />
+                <element signature="e#8556#8632#0" expanded="false" />
+                <element signature="e#8733#8756#0" expanded="false" />
+                <element signature="e#8981#9163#1" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SLAM_Expand.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SLAM_Expand.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="5478" max-vertical-offset="6715">
+              <caret line="374" column="30" selection-start-line="374" selection-start-column="30" selection-end-line="374" selection-end-column="30" />
+              <folding>
+                <element signature="e#409#427#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SLAM_Confident_Measurement.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SLAM_Confident_Measurement.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="5763" max-vertical-offset="6664">
+              <caret line="378" column="4" selection-start-line="378" selection-start-column="4" selection-end-line="378" selection-end-column="29" />
+              <folding>
+                <element signature="e#235#253#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SLAM_Implementing_SLAM.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SLAM_Implementing_SLAM.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="8942" max-vertical-offset="11305">
+              <caret line="514" column="0" selection-start-line="514" selection-start-column="0" selection-end-line="514" selection-end-column="0" />
+              <folding>
+                <element signature="e#1307#1325#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SLAM_Online_SLAM.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SLAM_Online_SLAM.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7231121" vertical-offset="12757" max-vertical-offset="13243">
+              <caret line="769" column="29" selection-start-line="769" selection-start-column="29" selection-end-line="769" selection-end-column="29" />
+              <folding>
+                <element signature="e#1371#1389#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -127,18 +151,6 @@
               <caret line="159" column="37" selection-start-line="159" selection-start-column="37" selection-end-line="159" selection-end-column="37" />
               <folding>
                 <element signature="e#549#567#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Particle_Filter_Motion.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Particle_Filter_Motion.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1292" max-vertical-offset="3468">
-              <caret line="103" column="0" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
-              <folding>
-                <element signature="e#696#714#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -173,6 +185,11 @@
         <option value="$PROJECT_DIR$/PID_Constrained_Smoothing.py" />
         <option value="$PROJECT_DIR$/PID_Racetrack_Control.py" />
         <option value="$PROJECT_DIR$/SLAM_Segmented_CTE.py" />
+        <option value="$PROJECT_DIR$/SLAM_Omega_Xi.py" />
+        <option value="$PROJECT_DIR$/SLAM_Expand.py" />
+        <option value="$PROJECT_DIR$/SLAM_Confident_Measurement.py" />
+        <option value="$PROJECT_DIR$/SLAM_Implementing_SLAM.py" />
+        <option value="$PROJECT_DIR$/SLAM_Online_SLAM.py" />
       </list>
     </option>
   </component>
@@ -242,8 +259,8 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.SLAM_Segmented_CTE">
-    <configuration default="false" name="PID_Parameter_Optimization" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.SLAM_Online_SLAM">
+    <configuration default="false" name="SLAM_Omega_Xi" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -255,14 +272,14 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Udacity-Artificial-Intelligence-for-Robotics" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PID_Parameter_Optimization.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SLAM_Omega_Xi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PyDebugRunner" />
       <ConfigurationWrapper RunnerId="PyDebugRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="PID_Cyclic_Smoothing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="SLAM_Expand" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -274,7 +291,45 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Udacity-Artificial-Intelligence-for-Robotics" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PID_Cyclic_Smoothing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SLAM_Expand.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SLAM_Confident_Measurement" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Udacity-Artificial-Intelligence-for-Robotics" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SLAM_Confident_Measurement.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SLAM_Implementing_SLAM" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Udacity-Artificial-Intelligence-for-Robotics" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SLAM_Implementing_SLAM.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PyDebugRunner" />
@@ -283,7 +338,7 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="PID_Constrained_Smoothing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="SLAM_Online_SLAM" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -295,53 +350,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Udacity-Artificial-Intelligence-for-Robotics" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PID_Constrained_Smoothing.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="PID_Racetrack_Control" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Udacity-Artificial-Intelligence-for-Robotics" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PID_Racetrack_Control.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SLAM_Online_SLAM.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PyDebugRunner" />
       <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="SLAM_Segmented_CTE" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Udacity-Artificial-Intelligence-for-Robotics" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SLAM_Segmented_CTE.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -467,19 +480,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.PID_Parameter_Optimization" />
-      <item index="1" class="java.lang.String" itemvalue="Python.PID_Cyclic_Smoothing" />
-      <item index="2" class="java.lang.String" itemvalue="Python.PID_Constrained_Smoothing" />
-      <item index="3" class="java.lang.String" itemvalue="Python.PID_Racetrack_Control" />
-      <item index="4" class="java.lang.String" itemvalue="Python.SLAM_Segmented_CTE" />
+      <item index="0" class="java.lang.String" itemvalue="Python.SLAM_Omega_Xi" />
+      <item index="1" class="java.lang.String" itemvalue="Python.SLAM_Expand" />
+      <item index="2" class="java.lang.String" itemvalue="Python.SLAM_Confident_Measurement" />
+      <item index="3" class="java.lang.String" itemvalue="Python.SLAM_Implementing_SLAM" />
+      <item index="4" class="java.lang.String" itemvalue="Python.SLAM_Online_SLAM" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.SLAM_Segmented_CTE" />
-        <item index="1" class="java.lang.String" itemvalue="Python.PID_Racetrack_Control" />
-        <item index="2" class="java.lang.String" itemvalue="Python.PID_Constrained_Smoothing" />
-        <item index="3" class="java.lang.String" itemvalue="Python.PID_Cyclic_Smoothing" />
-        <item index="4" class="java.lang.String" itemvalue="Python.PID_Parameter_Optimization" />
+        <item index="0" class="java.lang.String" itemvalue="Python.SLAM_Online_SLAM" />
+        <item index="1" class="java.lang.String" itemvalue="Python.SLAM_Implementing_SLAM" />
+        <item index="2" class="java.lang.String" itemvalue="Python.SLAM_Confident_Measurement" />
+        <item index="3" class="java.lang.String" itemvalue="Python.SLAM_Expand" />
+        <item index="4" class="java.lang.String" itemvalue="Python.SLAM_Omega_Xi" />
       </list>
     </recent_temporary>
   </component>
@@ -527,11 +540,11 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32913387" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34015748" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19055118" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2015748" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -573,18 +586,103 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="125" />
+      <option name="time" value="172" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PID_P_Controller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2176" max-vertical-offset="2720">
+          <caret line="152" column="0" selection-start-line="152" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
+          <folding>
+            <element signature="e#532#550#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PID_PI_Controller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2258" max-vertical-offset="2805">
+          <caret line="149" column="62" selection-start-line="149" selection-start-column="62" selection-end-line="149" selection-end-column="62" />
+          <folding>
+            <element signature="e#458#476#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PID_Parameter_Optimization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2785" max-vertical-offset="3434">
+          <caret line="176" column="0" selection-start-line="176" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
+          <folding>
+            <element signature="e#464#482#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PID_Cyclic_Smoothing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3111" max-vertical-offset="3604">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PID_Constrained_Smoothing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1298" max-vertical-offset="2754">
+          <caret line="91" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="156" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PID_Racetrack_Control.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2353" max-vertical-offset="3332">
+          <caret line="154" column="0" selection-start-line="154" selection-start-column="0" selection-end-line="154" selection-end-column="0" />
+          <folding>
+            <element signature="e#637#655#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SLAM_Segmented_CTE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11203">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#396#414#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PID_PID_Controller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2461" max-vertical-offset="2924">
+          <caret line="159" column="37" selection-start-line="159" selection-start-column="37" selection-end-line="159" selection-end-column="37" />
+          <folding>
+            <element signature="e#549#567#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Particle_Filter_Motion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1292" max-vertical-offset="3468">
+          <caret line="103" column="0" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+          <folding>
+            <element signature="e#696#714#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Particle_Filter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2180" max-vertical-offset="2584">
           <caret line="145" column="25" selection-start-line="145" selection-start-column="25" selection-end-line="145" selection-end-column="25" />
-          <folding>
-            <element signature="e#69#87#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -592,9 +690,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1513" max-vertical-offset="3009">
           <caret line="98" column="0" selection-start-line="98" selection-start-column="0" selection-end-line="110" selection-end-column="70" />
-          <folding>
-            <element signature="e#697#715#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -602,9 +697,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="5904" max-vertical-offset="6511">
           <caret line="376" column="46" selection-start-line="376" selection-start-column="46" selection-end-line="376" selection-end-column="46" />
-          <folding>
-            <element signature="e#978#996#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -612,7 +704,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="665" max-vertical-offset="2040">
           <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -620,7 +711,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="2074">
           <caret line="50" column="19" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -628,7 +718,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1581">
           <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="66" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -644,7 +733,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="1921">
           <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -663,7 +751,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="1292" max-vertical-offset="3468">
           <caret line="103" column="0" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
           <folding>
-            <element signature="e#696#714#0" expanded="true" />
+            <element signature="e#696#714#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -686,9 +774,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2180" max-vertical-offset="2584">
           <caret line="145" column="25" selection-start-line="145" selection-start-column="25" selection-end-line="145" selection-end-column="25" />
-          <folding>
-            <element signature="e#69#87#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -696,9 +781,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1513" max-vertical-offset="3009">
           <caret line="98" column="0" selection-start-line="98" selection-start-column="0" selection-end-line="110" selection-end-column="70" />
-          <folding>
-            <element signature="e#697#715#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -706,9 +788,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6511">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#978#996#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -717,7 +796,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="1598" max-vertical-offset="3468">
           <caret line="97" column="0" selection-start-line="97" selection-start-column="0" selection-end-line="117" selection-end-column="72" />
           <folding>
-            <element signature="e#696#714#0" expanded="true" />
+            <element signature="e#696#714#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -747,9 +826,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2180" max-vertical-offset="2584">
           <caret line="145" column="25" selection-start-line="145" selection-start-column="25" selection-end-line="145" selection-end-column="25" />
-          <folding>
-            <element signature="e#69#87#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -757,9 +833,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1513" max-vertical-offset="3009">
           <caret line="98" column="0" selection-start-line="98" selection-start-column="0" selection-end-line="110" selection-end-column="70" />
-          <folding>
-            <element signature="e#697#715#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -767,9 +840,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="5904" max-vertical-offset="6511">
           <caret line="376" column="46" selection-start-line="376" selection-start-column="46" selection-end-line="376" selection-end-column="46" />
-          <folding>
-            <element signature="e#978#996#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -777,7 +847,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="1581">
           <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="66" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -793,7 +862,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="918" max-vertical-offset="2074">
           <caret line="50" column="19" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -801,7 +869,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="665" max-vertical-offset="2040">
           <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -809,7 +876,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="1921">
           <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -818,7 +884,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="1292" max-vertical-offset="3468">
           <caret line="103" column="0" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
           <folding>
-            <element signature="e#696#714#0" expanded="true" />
+            <element signature="e#696#714#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -828,7 +894,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="2163" max-vertical-offset="2720">
           <caret line="152" column="0" selection-start-line="152" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
           <folding>
-            <element signature="e#532#550#0" expanded="true" />
+            <element signature="e#532#550#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -838,7 +904,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="2363" max-vertical-offset="2805">
           <caret line="149" column="62" selection-start-line="149" selection-start-column="62" selection-end-line="149" selection-end-column="62" />
           <folding>
-            <element signature="e#458#476#0" expanded="true" />
+            <element signature="e#458#476#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -848,7 +914,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="2785" max-vertical-offset="3434">
           <caret line="176" column="0" selection-start-line="176" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
           <folding>
-            <element signature="e#464#482#0" expanded="true" />
+            <element signature="e#464#482#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -893,7 +959,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PID_Racetrack_Control.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.137931" vertical-offset="2353" max-vertical-offset="3332">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2353" max-vertical-offset="3332">
           <caret line="154" column="0" selection-start-line="154" selection-start-column="0" selection-end-line="154" selection-end-column="0" />
           <folding>
             <element signature="e#637#655#0" expanded="true" />
@@ -903,10 +969,74 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SLAM_Segmented_CTE.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.60301507" vertical-offset="9620" max-vertical-offset="11203">
+        <state vertical-scroll-proportion="0.0" vertical-offset="9620" max-vertical-offset="11203">
           <caret line="580" column="21" selection-start-line="580" selection-start-column="21" selection-end-line="580" selection-end-column="21" />
           <folding>
             <element signature="e#396#414#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SLAM_Expand.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6039" max-vertical-offset="6715">
+          <caret line="374" column="30" selection-start-line="374" selection-start-column="30" selection-end-line="374" selection-end-column="30" />
+          <folding>
+            <element signature="e#409#427#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SLAM_Omega_Xi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3081" max-vertical-offset="3655">
+          <caret line="331" column="37" selection-start-line="331" selection-start-column="37" selection-end-line="331" selection-end-column="37" />
+          <folding>
+            <element signature="e#1009#1152#0" expanded="false" />
+            <element signature="e#1291#1611#0" expanded="false" />
+            <element signature="e#1761#2088#0" expanded="false" />
+            <element signature="e#2189#2317#0" expanded="false" />
+            <element signature="e#2477#2954#0" expanded="false" />
+            <element signature="e#3110#3597#0" expanded="false" />
+            <element signature="e#3738#4235#0" expanded="false" />
+            <element signature="e#4337#4562#0" expanded="false" />
+            <element signature="e#5231#5613#0" expanded="false" />
+            <element signature="e#6329#6701#0" expanded="false" />
+            <element signature="e#6944#7634#0" expanded="false" />
+            <element signature="e#7874#8433#0" expanded="false" />
+            <element signature="e#8556#8632#0" expanded="false" />
+            <element signature="e#8733#8756#0" expanded="false" />
+            <element signature="e#8981#9163#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SLAM_Confident_Measurement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6324" max-vertical-offset="6664">
+          <caret line="378" column="4" selection-start-line="378" selection-start-column="4" selection-end-line="378" selection-end-column="29" />
+          <folding>
+            <element signature="e#235#253#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SLAM_Implementing_SLAM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="8687" max-vertical-offset="11305">
+          <caret line="514" column="0" selection-start-line="514" selection-start-column="0" selection-end-line="514" selection-end-column="0" />
+          <folding>
+            <element signature="e#1307#1325#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SLAM_Online_SLAM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7231121" vertical-offset="12757" max-vertical-offset="13243">
+          <caret line="769" column="29" selection-start-line="769" selection-start-column="29" selection-end-line="769" selection-end-column="29" />
+          <folding>
+            <element signature="e#1371#1389#0" expanded="true" />
           </folding>
         </state>
       </provider>
