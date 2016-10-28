@@ -72,10 +72,10 @@ def optimum_policy(grid,goal,cost):
 
 
     # First exercise - Return all the numbers of steps to achieve goal
-    #return numberStepsMatrix
+    return numberStepsMatrix
 
     # Second exercise - Return all the directions matrix
-    return directonsMatrix
+    #return directonsMatrix
 
 # First exercise
 # matrix = compute_value(grid,goal,cost)

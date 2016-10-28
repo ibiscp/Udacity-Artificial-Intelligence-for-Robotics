@@ -109,9 +109,9 @@ def search(grid,init,goal,cost,heuristic):
     # Exercise 3 - Return matrix with directions
     # return directonsMatrix
 
-# answer = search(grid, init, goal, cost, heuristic)
-# if isinstance(answer, list):
-#     print('\n'.join([''.join(['{:4}'.format(item) for item in row])
-#           for row in answer]))
-# else:
-#     print answer
+answer = search(grid, init, goal, cost, heuristic)
+if isinstance(answer, list):
+    print('\n'.join([''.join(['{:4}'.format(item) for item in row])
+          for row in answer]))
+else:
+    print answer
